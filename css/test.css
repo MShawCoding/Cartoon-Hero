@@ -1,0 +1,28 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+	color: cyan;
+	font-size: 90px;
+	text-decoration: underline;
+}
+#first{
+	font-size: 10px;
+}
+h2{
+	color: green;
+	font-size: 80px;
+	text-decoration: underline;
+}
+
+.small{
+	font-size: 65px;
+}
+span{
+	font-style: italic;
+}
+
+h2 span{
+	text-decoration: line-through;
+}
+
