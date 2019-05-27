@@ -3,22 +3,25 @@ html, body{
 }
 
 header{
-	background-color: #488F84 
-}
+	background-color: #c62121
+}	
 
 h1{
-	color: #A90000;
+	color: black;
 	font-size: 50px;
 	text-align: center;
 	font-family: sans-serif;
+	text-shadow: 0 10px 25px black;
 }
 
 header img{
-	border-radius: 175px;
+	border-radius: 400px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	vertical-align: middle;
+	box-shadow: 0 20px 50px;
+	margin-bottom: 75px;
 }
 
 h2{
@@ -53,6 +56,7 @@ img.big-image{
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
+   border:5px solid #021a40;
 }
 
 footer p{
