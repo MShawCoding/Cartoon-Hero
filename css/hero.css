@@ -1,0 +1,45 @@
+header{
+	background-color: #488F84 
+
+}
+
+h1{
+	color: #A90000;
+	font-size: 50px;
+	text-align: center;
+}
+
+header img{
+	border-radius: 175px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2{
+	text-align: center;
+	font-size: 35px;
+}
+
+p{
+	font-size: 25px;
+}
+
+ul{
+	font-size: 25px;
+}
+
+footer{
+	font-size: 10px;
+}
+
+big-image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*<header>
+		<h1>Guts the Berserker</h1>
+		<img src="https://i.ytimg.com/vi/5plps3a6CJQ/maxresdefault.jpg">
+	</header>*/
